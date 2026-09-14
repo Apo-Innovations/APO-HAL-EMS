@@ -107,7 +107,7 @@ This technology is available for commercial deployment under license.
 - Custom domain adaptation
 - Technical evaluation and pilot programs
 
-**Email:** oleymcclure@gmail.com  
+**Email:** 
 **GitHub:** [@Pink54089](https://github.com/Pink54089)
 
 ## Intellectual Property
